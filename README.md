@@ -4,7 +4,9 @@
 
 ###
 # 💫 About Me:
-I'm Currently studing
+<h3 align="left">Hi, I'm Imtiaz Hossen!<br> I'm a Software Engineering student passionate about web development and problem-solving. Currently, I'm exploring JavaScript projects and striving to make an impact through technology. Outside of coding, I love football, gaming, and discovering new places.</h3>
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imtiaz-zihad&icon=0&color=0)](https://visitcount.itsvg.in)
