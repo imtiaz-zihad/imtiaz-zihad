@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/JtfL9XX/IMTIAZ-HOSSEN-linkdin-banner.png"  />
+</div>
+
+###
 # 💫 About Me:
 I'm Currently studing
 
